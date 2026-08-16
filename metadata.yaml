@@ -1,5 +1,5 @@
 homepage: "https://findip.net"
 documentation: "https://findip.net/docs/shield/google-tag-manager"
 versions:
-  - sha: d9bf8a47e935cf4ba9187955175faf684d7a0b1d
+  - sha: 3eaaba4e271d63baca1cd9eee7bfb924576e58f6
     changeNotes: Initial release of the FindIP Shield tag template.
