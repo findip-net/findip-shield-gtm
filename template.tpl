@@ -1,16 +1,10 @@
-// Copyright 2026 FindIP
-//
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
-//
-//     https://www.apache.org/licenses/LICENSE-2.0
-//
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-// See the License for the specific language governing permissions and
-// limitations under the License.
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
 
 ___INFO___
 
@@ -22,8 +16,7 @@ ___INFO___
   "displayName": "FindIP Shield",
   "brand": {
     "id": "findip",
-    "displayName": "FindIP",
-    "thumbnail": ""
+    "displayName": "FindIP"
   },
   "description": "Visitor risk detection for your website: VPN/proxy/Tor/hosting/malicious flags and a risk score for every session. Loads the FindIP Shield SDK from cdn.findip.net.",
   "categories": [
