@@ -4,6 +4,14 @@ The official Google Tag Manager tag template for [FindIP Shield](https://findip.
 
 Shield reports network signals such as VPN, proxy, Tor, relay, hosting, datacenter, and malicious-IP activity without collecting form values.
 
+## See Shield in action
+
+[![A sample sign-up arrives through a VPN. FindIP Shield shows the reasons behind its risk score, follows the session across networks, and records what the page did](.github/media/shield-signup-insight-teaser.gif)](https://www.findip.net/assets/videos/shield-signup-insight.mp4)
+
+▶ **[Watch with sound (0:30)](https://www.findip.net/assets/videos/shield-signup-insight.mp4)** · [Try the interactive demo](https://www.findip.net/shield/demo?utm_source=github&utm_medium=readme&utm_campaign=shield_clips&utm_content=findip-shield-gtm) · [Explore FindIP Shield](https://www.findip.net/shield/overview?utm_source=github&utm_medium=readme&utm_campaign=shield_clips&utm_content=findip-shield-gtm)
+
+This is the Shield dashboard that the tag reports to, shown with sample data: each visit with its risk score, the reasons behind it, and a recommendation.
+
 ## Install from the Community Template Gallery
 
 After the template is accepted into the Gallery:
